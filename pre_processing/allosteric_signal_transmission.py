@@ -66,7 +66,7 @@ class AllostericSignalTransmission:
 # Example usage
 if __name__ == "__main__":
     pdb_id = "4WB7" 
-    allosteric_site = 398  
+    allosteric_site = 391
     
     # Initialize protein structure
     protein_processor = ProteinStructureProcessor(pdb_id)
